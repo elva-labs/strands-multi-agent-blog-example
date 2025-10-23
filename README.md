@@ -1,6 +1,6 @@
 # Strands Multi-Agent System Example
 
-This repo is an example repo used in the blog: https://blog.elva-group.com/building-multi-agent-systems-with-strands
+This repo is an example repo used in the blog: https://blog.elva-group.com/supercharge-yourself-with-your-own-team-of-agents
 
 ## Requirements
 
